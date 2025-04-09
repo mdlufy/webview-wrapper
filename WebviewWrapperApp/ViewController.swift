@@ -19,7 +19,7 @@ class ViewController: UIViewController, WKNavigationDelegate {
             webView.isInspectable = true
         }
         
-        let url = URL(string: "https://taiga-ui.dev/")!
+        let url = URL(string: "https://192.168.0.108:4200/components/sheet-dialog")!
         webView.load(URLRequest(url: url))
     }
     

@@ -6,4 +6,4 @@
 4. Open Safari Web Inspector for debug
 5. Testing
 
-![Test webview](assets/webview.png)
+![Test webview](assets/fullscreen.png)
