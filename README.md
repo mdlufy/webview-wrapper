@@ -6,4 +6,7 @@
 4. Open Safari Web Inspector: Open Safari -> Development -> Select iOS device for debug.
 5. Debug!
 
+------------------------------------------------
+Don't forget to add `viewport-fit=cover` to app's html meta-tags to work in fullscreen
+
 ![Test webview](assets/fullscreen.png)
