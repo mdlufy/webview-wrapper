@@ -1,3 +1,5 @@
+## Migrated to https://github.com/taiga-family/ios-webview-wrapper
+
 ## WebView wrapper for testing app on iOS
 
 1. Clone this project and open it in Xcode.
